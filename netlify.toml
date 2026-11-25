@@ -1,0 +1,6 @@
+# This repository contains no application source code (only README.MD),
+# so there is no framework, package manager, or build step.
+# Netlify publishes the repository root as-is.
+[build]
+  command = ""
+  publish = "."
